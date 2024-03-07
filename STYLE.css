@@ -1,0 +1,31 @@
+.logo{
+color: blue;
+float: left;
+font-size: 39px;
+background-color: rgb(255, 255, 255);
+border-radius: 95%;
+}
+ul{
+    float :right;
+    list-style:none;
+}
+li{
+    float:left;
+    padding: 15px;
+    font-size: 30px;
+    color: white;
+}
+
+nav{
+    height:  90px;
+    background-color: rgb(24, 156, 88);
+}
+body{
+    margin: 0;
+    padding: 0%;
+}
+a{
+    text-decoration: none;
+    color: rgb(231, 12, 12)
+;
+}
